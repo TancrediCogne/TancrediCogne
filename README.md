@@ -1,11 +1,11 @@
 # Hi, I'm Tancredi!👋
----
+
 ### Statistics | Immunology | Machine Learning | Data Analysis | Structural Biology
 
 Welcome to my GitHub! I'm a second-year Life Science Engineer Master's student at EPFL with a specialization in Biological Data Science, passionate about advancing and leveraging statistical methods and data analysis to tackle immunology and structural biology related diseases 🧬
 
 ## Skills 🔬
----
+
 - Programming Languages: Proficient in Python, Java, Scala, SQL; Familiar with R, C, Assembly
 - Frameworks and IDEs: Proficient in VSCode, LaTeX, IntelliJ, Jupyter Notebook; Familiar with R Studio, MicrosoftAzure, Matlab
 - Packages: Proficient with Pandas, PyTorch, NumPy, Sklearn, Matplotlib, Seaborn, Scipy, Statsmodels
