@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a second-year Life Science Engineer Master's student a
   - Data from the Human Metabolome Database ([HMDB](https://hmdb.ca)) and the Chemical Functional Ontology ([ChemFOnt](https://www.chemfont.ca))
   - Data processing, Data analysis, Graph Attention Networks (GAT)
 
-- Deep Learning for Cell Cycle Stage Image Classification
+- Deep Learning for Cell Cycle Stage Image Classification ([Repository](https://github.com/TancrediCogne/project2_cs433))
   - Research Project for [ML4Science](https://www.epfl.ch/labs/mlo/ml4science/), Collaboration with the [Gönczy Lab](https://www.epfl.ch/labs/gonczy-lab/) at EPFL
   - Building a classifier for fluorescently tagged images to infer cell cycle stages
   - Data processing and augmentation using computer vision techniques
