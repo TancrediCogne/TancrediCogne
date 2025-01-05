@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a second-year Life Science Engineer Master's student a
   - Recovered experimentally found information about impact of mutations on binding affinity
   - Data processing, Data analysis, Statistical Testing
   
-- Deep Learning for Metabolite function prediction
+- Deep Learning for Metabolite function prediction ([Repository](https://github.com/TancrediCogne/MetaboliteGNN))
   - Research Project at the [Fellay Lab](https://www.epfl.ch/labs/fellay-lab/) at EPFL
   - Investigating the feasibility of multi-label metabolite function predicting based on structure via deep learning
   - Data from the Human Metabolome Database ([HMDB](https://hmdb.ca)) and the Chemical Functional Ontology ([ChemFOnt](https://www.chemfont.ca))
