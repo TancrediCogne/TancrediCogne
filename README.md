@@ -33,4 +33,4 @@ Welcome to my GitHub! I'm a second-year Life Science Engineer Master's student a
   - Research Project at the [Mostafavi Lab](http://saramostafavi.github.io) at the University of Washington
   - Building sequence-to-activity neural network models for understanding gene regulation
   - Rediscovering ab initio binding motifs for known regulators involved in immune cells differentiation
-  - Data analysis to extend themodel to human cells
+  - Data analysis to extend the model to human cells
